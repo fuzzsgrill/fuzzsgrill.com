@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:34611/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Sep 2024 15:02:23 -0600</lastBuildDate>
-    <atom:link href="http://localhost:34611/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Firstpost</title>
-      <link>http://localhost:34611/posts/my-firstpost/</link>
+      <link>http://localhost:1313/posts/my-firstpost/</link>
       <pubDate>Tue, 17 Sep 2024 15:02:23 -0600</pubDate>
-      <guid>http://localhost:34611/posts/my-firstpost/</guid>
+      <guid>http://localhost:1313/posts/my-firstpost/</guid>
       <description>&lt;p&gt;Welcome to my first blog post! Here I will post random things like lighting/audio stuff, pet things, projects I am working on and more.&#xA;I look forward to posting&lt;/p&gt;</description>
     </item>
   </channel>
