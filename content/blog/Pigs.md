@@ -2,7 +2,6 @@
 title = "Guinea Pig"
 date = 2024-09-17T15:02:23-06:00
 draft = false
-social
 +++
 
 I am going to be really honest with you, I never wanted guinea pigs in the first place. Now I know that sounds strange but bear with me. 
