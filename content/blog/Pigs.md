@@ -26,7 +26,7 @@ With all the experience that I have had we adopted two boys who are living separ
 I love every single one of them and would not change anything for a moment. If I had to change one thing it would be to go back in time and tell myself in that Walgreens waiting room that guinea pigs are worth it. They tell you stories even though you can’t understand. They could be telling you about the universe's secrets and it sounds like little video games. All of it is worth it. 
 
 
-![image of Tatey](../../static/images/Tatey.jpg)
-![image of Tot](../../static/images/Tot.png)
-![image of squeak](../../static/images/Squeak.jpeg)
-![image of girls](../../static/images/Girls.jpeg)
+![image of Tatey](/images/Tatey.jpg)
+![image of Tot](/images/Tot.png)
+![image of squea](/images/Squeak.jpeg)
+![image of girls](/images/Girls.jpeg)
