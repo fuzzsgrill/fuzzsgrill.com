@@ -1,5 +1,4 @@
 baseURL = 'fuzzsgrill.com'
 languageCode = 'en-us'
 title = "Fuzz's Grill"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 sectionPagesMenu = "main"
