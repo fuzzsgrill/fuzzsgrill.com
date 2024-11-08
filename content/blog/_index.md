@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Blog"
 ---
 
-Write something about your blog posts here. Or, don't. It's a free country.
+Welcome to my blogs! Here everything is sorted by year. I encorage you to take a look around

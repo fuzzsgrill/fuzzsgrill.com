@@ -1,5 +1,5 @@
-baseURL = 'fuzzsgrill.com'
-languageCode = 'en-us'
+baseURL = 'https://fuzzsgrill.com/'
 title = "Fuzz's Grill"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+defaultContentLanguage = 'en'
+enableRobotsTXT = true
 sectionPagesMenu = "main"

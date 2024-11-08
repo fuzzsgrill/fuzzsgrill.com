@@ -1,0 +1,20 @@
+colorScheme = "ocean"
+defaultAppearance = "light" # valid options: light or dark
+autoSwitchAppearance = true
+
+enableSearch = true
+
+[header]
+layout = "basic" # valid options: basic, hamburger, custom
+showTitle = true
+
+[footer]
+showCopyright = true
+showAppearanceSwitcher = true
+
+[homepage]
+layout = "profile" # valid options: page, profile, custom
+showRecent = true
+
+[list]
+showSummary = true
