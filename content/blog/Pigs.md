@@ -1,6 +1,7 @@
 +++
 title = "Guinea Pig"
 date = 2024-10-20
+summary = "The story of the Guinea Pigs"
 draft = false
 +++
 

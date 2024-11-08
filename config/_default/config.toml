@@ -1,4 +1,5 @@
-baseURL = 'fuzzsgrill.com'
-languageCode = 'en-us'
+baseURL = 'https://fuzzsgrill.com/'
 title = "Fuzz's Grill"
+defaultContentLanguage = 'en'
+enableRobotsTXT = true
 sectionPagesMenu = "main"
