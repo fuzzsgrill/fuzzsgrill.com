@@ -3,3 +3,10 @@ title = "Fuzz's Grill"
 defaultContentLanguage = 'en'
 enableRobotsTXT = true
 sectionPagesMenu = "main"
+
+# Only generate RSS/JSON for blog posts (see /content/posts/_index.md)
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
