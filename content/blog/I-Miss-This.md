@@ -1,0 +1,11 @@
++++
+title = 'I Miss This'
+date = 2024-11-09
+draft = true
++++
+I must admit, even though I am not a winter person I do miss it from time to time. One thing that I love about the winter is the seasons changing. Fall is a pretty time, all the leaves come down from the tree and there is nothing more satisfing than the crunch when you step on a leaf. I love it when they do that, and I'll admit I get a bit dissapointed when there is no crunch. 
+One thing I don't like though is the snow. Most parts of the US get snow (yes even Utah). I don't like to be cold, for some reason I am not a fan of it. I wish I could tell you why, but it is nice to sit back with a dog at your feet and have a glass of hot chocolate while you play *Super Mario Odyseey* while the fireplace runs. It is very nice to sit there while you throw Cappy and then run into a 2D version that resembles all version of Mario until the 1992 release of *Super Mario Land 2: 6 Golden Coins* orginally for the Game Boy. 
+
+There are few other things that I love about this time of year, I love the Christmas spirt that runs though the air. It presents a nice feeling to know that Christmas is right around the corner. It presents the season of giving. Which is what Christmas is all about. there are parts that not like. Running around like a crazy person scrambling for a last second gift is something I don't enjoy, but the idea that you got someone something special the right thing is the most amazing thing and I love it. You can sit back and relax as you watch that person open up an item that you got them and know that you got them something that they will use. 
+
+I am always greatful for anything that I get. I have things hanging up in my room from amazing friends of mine. One of them is a card from my graduation and another is a thank you note from the same couple thanking me for attending their wedding. I am always reminded that even though there might be a tough time going on I have people in my corner that support me.  
