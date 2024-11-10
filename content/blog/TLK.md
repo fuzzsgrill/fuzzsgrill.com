@@ -1,7 +1,7 @@
 +++
 title = 'The Lion King/The Lion Guard'
 date = 2024-11-09
-summary = One of my favorite
+summary = "One of my favorite"
 draft = false
 
 +++
