@@ -1,7 +1,9 @@
 +++
 title = 'The Lion King/The Lion Guard'
-date = 2024-11-09T15:18:25-07:00
+date = 2024-11-09
+summary = One of my favorite
 draft = false
+
 +++
 Disney's *The Lion King* is amazing. It is a romantic tragedy that has amazing moments. The music, the animation, the story. (I am talking about the 1994 version).
 
