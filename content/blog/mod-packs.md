@@ -1,13 +1,14 @@
 +++
 title = 'Mod Packs'
-date = 2024-11-16T23:30:44-07:00
+date = 2024-11-16
+summary = "A mod pack for all you basic Minecraft needs"
 draft = false
-Summary = A mod pack for all you basic Minecraft needs
 +++
 
 This week I got to experience something of interest. I created a mod pack, “what started this?” You may ask, I decided to play some vanilla Minecraft to see what the new version hype that always happens was about. I am used to playing on a modded Minecraft server with my friends, this server has 300+ mods that make the game something different. When I spun up the Vanilla instance, I tried to use some of the mods that didn’t exist… You can imagine how that went for me. So, what did I do? I decided to create an overcomplicated solution to something that should not be an issue (this is how my brain is) 
 I created a mod pack with some things that I think should be in vanilla. This pack had mods like Jade, JEI, improved animations, and shaders, and some other quality game essentials (downloadable at essentials.fuzzsgrill.com). When I started to investigate this install, I saw that I could use Modrinth for it. It's super easy and should be good to go… Well, after some trouble, I decided to make the app do it. A good friend/software dev saw me using Modrinth on Discord and asked what I was up to and I told him createing a mod pack for the necessities. 
 I was able to get the mod pack created and running, when I saw how bad it was running I gave it more RAM to use as Modrinth auto-allocated to about 2 gigs of RAM. When I adjusted it, the game was constantly crashing so I decided to give up on that pack and create a new one. Shopping around on Modrinth is something of interest, you have most mods imaginable, it is nice too as Modrinth will download dependency mods if needed. When I was done, I sent it to my brother, for him to check out. This next part I am not sure how it happened, but I was on a call with another good friend and we somehow brought up ducks and Minecraft. I told her I added ducks to the game (via the modpack Ducklings). When she said “I got to see this” I decided to send her the pack so she could see it for herself, along with a screen shot with a raft of ducks happily quacking and floating around. 
+
 ![A bunch of ducks happily floating](../../static/images//Modpacks/Ducks.png)
 
 I even captioned it with “They love bread”. My software developer friend chimed in with a system called Packwiz, a better way to distribute these modpacks, plus the server that I play on uses Packwiz for its distribution. He sends me a link to its documentation and I get started that next night. 
@@ -44,7 +45,7 @@ Scroll down to branch to deploy and make sure it’s set to main and set base di
 
 Then hit deploy under everything. This will deploy your main github branch, copy that url. 
 
-Then use Prism or Multi MC and spin up a new instance and choose your Minecraft version and what mod loader you are using, Fabric, cloth etc, under custom commands enter "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://[your-server]/pack.toml” replace the URL with the one you got from Netlify.
+Then use Prism or Multi MC and spin up a new instance and choose your Minecraft version and what mod loader you are using, Fabric, cloth etc, under custom commands enter "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://your-server/pack.toml” replace the URL with the one you got from Netlify.
 You will also want to grab this boot stap file, https://github.com/packwiz/packwiz-installer-bootstrap/releases 
 Move that to you instance Minecraft folder (it will appear after you hit ok). An easy trick to find your instance folder is to hit folder with the instance selected. Grab that boot strap file that you downloaded earlier and move it there. Now everything should be good to go, press launch and start playing.
 
