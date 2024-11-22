@@ -1,8 +1,8 @@
 +++
 title = 'Mod Packs'
 date = 2024-11-16
-summary = "A mod pack for all you basic Minecraft needs"
-draft = false
+summary = "A mod pack for all you basic Minecraft needs!"
+draft = true
 
 +++
 
