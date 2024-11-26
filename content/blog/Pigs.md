@@ -3,7 +3,7 @@ title = "Guinea Pig"
 date = 2024-10-20
 summary = "The story of the Guinea Pigs"
 draft = false
-layout = simple
+layout = "simple"
 +++
 
 I am going to be really honest with you, I never wanted guinea pigs in the first place. Now I know that sounds strange but bear with me. 
