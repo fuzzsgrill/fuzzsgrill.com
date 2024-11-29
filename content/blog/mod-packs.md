@@ -1,15 +1,9 @@
 +++
 title = 'Minecraft Modpacks'
 date = 2024-11-16
-<<<<<<< HEAD
 summary = "A mod pack for all you basic Minecraft needs!"
 draft = true
 
-=======
-summary = "I made a modpack for all your basic Minecraft needs."
-draft = false
-layout = "simple"
->>>>>>> 4caac12a8864d0d9a85aa19bf54cf90d5739a76c
 +++
 
 This week, I got to experience something of interest: I created a Minecraft modpack.
