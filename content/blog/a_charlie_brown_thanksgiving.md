@@ -1,6 +1,6 @@
 +++
 title = 'A Charlie Brown Thanksgiving'
-date = 2024-12-01T23:38:26-07:00
+date = 2024-12-02
 draft = false
 summary = "A review of *A Charlie Brown Thanksgiving*"
 +++
