@@ -1,6 +1,6 @@
 +++
 title = 'I Miss This'
-date = 2024-12-23
+date = 2024-12-24
 draft = false
 summary = "I miss this time of the year"
 +++
@@ -36,6 +36,8 @@ I am also not a fan of the weather, where I live it is warm in the 50s sweatshir
 Despite there being the good and the bad, I love this time of year, a time of tradition, a time of friends and family. Plus, a time to see those who care enough to care about you. 
 
 ¡Feliz Navidad a todos y a todos una buena noche! 
+
 (Merry Christmas to all and to all a good night!) 
+
 Fuzz
 
