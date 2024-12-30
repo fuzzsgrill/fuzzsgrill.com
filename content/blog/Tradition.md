@@ -3,6 +3,7 @@ title = 'Tradition'
 date = 2024-12-15T22:14:00-07:00
 draft = false
 summary = "What does this word mean to all?"
+layout = 'simple'
 +++
 
 There is a word that I have been putting in my posts for a while, I am going to let you find it... Need an idea? Look at the text below...

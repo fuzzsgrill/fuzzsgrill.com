@@ -3,7 +3,7 @@ title = 'Mod Packs'
 date = 2024-11-16
 summary = "A mod pack for all you basic Minecraft needs!"
 draft = true
-
+layout = 'simple'
 +++
 
 This week I got to experience something of interest. I created a mod pack, “what started this?” You may ask, I decided to play some vanilla Minecraft to see what the new version hype that always happens was about. I am used to playing on a modded Minecraft server with my friends, this server has 300+ mods that make the game something different. When I spun up the Vanilla instance, I tried to use some of the mods that didn’t exist… You can imagine how that went for me. So, what did I do? I decided to create an overcomplicated solution to something that should not be an issue (this is how my brain is) 

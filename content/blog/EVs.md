@@ -3,6 +3,7 @@ title = 'EVs'
 date = 2024-12-10T19:47:16-07:00
 draft = false
 summary = "What I think about electric cars"
+layout = 'simple'
 +++
 There is a new trend going on and it is electric vehicles. I know that these have been around for a while, but I have been seeing them increasingly on the road. Here are my thoughts on them.
 
