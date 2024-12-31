@@ -3,6 +3,7 @@ title = 'I Miss This'
 date = 2024-12-24
 draft = false
 summary = "I miss this time of the year"
+layout = 'simple'
 +++
 
 >Said the night wind to the little lamb:

@@ -3,6 +3,7 @@ title = 'A Charlie Brown Thanksgiving'
 date = 2024-12-02
 draft = false
 summary = "A review of *A Charlie Brown Thanksgiving*"
+layout = 'simple'
 +++
 
 The other night I got to watch *A Charlie Brown Thanksgiving* with my friends and I want to give you my thoughts:
