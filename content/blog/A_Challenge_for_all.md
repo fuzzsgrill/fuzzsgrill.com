@@ -1,5 +1,5 @@
 +++
-title = 'A_Challenge_for_all'
+title = 'A Challenge for All'
 date = 2025-01-03T00:17:13-07:00
 draft = false
 summary = "A challenge that is easy to complete"
