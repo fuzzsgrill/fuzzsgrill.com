@@ -9,7 +9,7 @@ layout = 'simple'
 I have a challenge for everyone, and I want you all to complete it. It is not a hard one but there it is: I want you to watch this short and then come back to this post:
 https://www.youtube.com/shorts/5PCTkVTitPs
 
-That was from YouTuber DannoDraws an amazing silly YouTuber that makes shorts on silly things to some of the most important things out there like mental health (he released a short about your doing your best and it hit me hard for some reason, a friendly reminder that we all need from time to time https://www.youtube.com/shorts/kkFIklTOXCY). This short came to me this morning and I had to talk about it. 
+That was from YouTuber DannoDraws an amazing silly YouTuber that makes shorts on silly things to some of the most important things out there like mental health (he released a short about your doing your best and it hit me hard for some reason, a friendly reminder that we all need from time to time https://www.youtube.com/shorts/kkFIklTOXCY ). This short came to me this morning and I had to talk about it. 
 
 This short proposes a challenge to all who come across it and I want to share it with you, the challenge is that you write a letter to your future self with your hopes and dreams and words of encouragement for your future self for things that didn't go right. I thought this would be a good and fun thing to do, so here we go. It does not have to be long; it just needs to be the right length for you. When you are done writing it there are a few more things to do. Here is mine below: 
 
