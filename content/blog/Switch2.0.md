@@ -1,6 +1,7 @@
 +++
-title = 'Switch2.0'
-date = 2025-01-16T16:58:49-07:00
+title = 'Switch 2.0'
+date = 2025-01-16
+summary = "A new console is coming soon"
 draft = false
 layout = 'simple'
 +++
