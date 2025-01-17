@@ -17,14 +17,15 @@ That is an interesting thing to see... While we are up here look to the right of
 
 Next the video moves onto the Joy cons and their iconic blue and red (a neat touch but I am a darker color person myself. My computer, phone, is all in dark mode, and I prefer the darker colors over the brighter ones). They double in size and there is now a new button on the right Joy Con under the home button. They then added blue and red accents to the controllers and I think that is a really nice touch to the overall look of the console. 
 
-![[Pasted image 20250116164059.png]]
+![tabletop mode](/images/Nintendo_Switch/tabletop.png)
 
 Here is the part that I am the most excited for!! They are magnetic! So now they clip onto the console and not slide on or off. That is a really cool feature and has to be super satisfying to dock and pull them apart. 
 
-![[Pasted image 20250116164230.png]]
+![A seperated system](/images/Nintendo_Switch/seperated.png)
 
 They showcased the dock and I don't see any massive differences aside from the it having a rounded look to it. 
-![[Pasted image 20250116165635.png]]
+
+![top of the desk](/images/Nintendo_Switch/Top_of_console.png)
 
 The entire thing is still using USB-C to charge and hook up to the TV, allowing for seamless connectivity. The adapters are also magnetic following the consoles pattern. In my opinion aesthetic wise it look amazing and I can't wait to see one in person. For what it has inside I don't have that info but I can tell you that it has backwards compatibility on it. So all your Switch 1 games are playable on Switch 2. 
 
