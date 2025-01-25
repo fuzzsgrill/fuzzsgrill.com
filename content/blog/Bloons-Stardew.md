@@ -1,7 +1,8 @@
 +++
 title = 'Stardew Valley'
-date = 2025-01-09T12:58:13-07:00
-draft = true
+date = 2025-01-25
+summary = 'I have way to much time in this game'
+draft = false
 layout = 'simple'
 +++
 
