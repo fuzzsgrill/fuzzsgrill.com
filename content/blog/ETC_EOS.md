@@ -1,5 +1,5 @@
 +++
-title = 'ETC_EOS'
+title = 'ETC EOS'
 date = 2025-02-02
 summary = "ETC my go to company"
 draft = false
