@@ -1,6 +1,7 @@
 +++
-title = 'Phineas_and_ferb'
-date = 2025-02-17T19:20:26-07:00
+title = 'Phineas and ferb'
+date = 2025-02-17
+summary = "A legendary show"
 draft = false
 layout = 'simple'
 +++
