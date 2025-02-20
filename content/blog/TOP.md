@@ -32,7 +32,10 @@ Dun laughed and said "I will commit with you". Find someone who will commit to t
 
 
 I have done two  ETC EOS designs from them and I am super happy on how it came out. Overcompensate from Clancy. 
+
 https://youtu.be/dU8IJ8dBgMg
+
 https://youtu.be/2-WwTMCO9sQ
+
 
 If you are looking for a good band that has diverse music, Twenty One Pilots is a band that you will want to listen to. 
