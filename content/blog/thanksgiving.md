@@ -3,7 +3,11 @@ title = 'Thanksgiving'
 date = 2024-11-21
 summary = "A thanksgiving post a touch too early"
 draft = false
+<<<<<<< HEAD
 layout = 'simple'
+=======
+layout = simple
+>>>>>>> 5a33e0841b743ed8de1771ec4b14b8073a1545ea
 +++
 
 I want to ask you a question... What does Thanksgiving mean to you?

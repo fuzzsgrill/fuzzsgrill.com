@@ -3,7 +3,11 @@ title = 'The Lion King/The Lion Guard'
 date = 2024-11-09
 summary = "One of my favorite"
 draft = false
+<<<<<<< HEAD
 layout = 'simple'
+=======
+layout = simple
+>>>>>>> 5a33e0841b743ed8de1771ec4b14b8073a1545ea
 +++
 Disney's *The Lion King* is amazing. It is a romantic tragedy that has amazing moments. The music, the animation, the story. (I am talking about the 1994 version).
 
