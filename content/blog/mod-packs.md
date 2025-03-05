@@ -3,7 +3,7 @@ title = 'Minecraft Modpacks'
 date = 2024-11-16
 summary = "A mod pack for all you basic Minecraft needs!"
 draft = true
-
+layout = 'simple'
 +++
 
 This week, I got to experience something of interest: I created a Minecraft modpack.
