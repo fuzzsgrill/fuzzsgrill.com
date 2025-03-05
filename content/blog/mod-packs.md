@@ -1,6 +1,11 @@
 +++
+<<<<<<< HEAD
 title = 'Mod Packs'
 date = 2025-03-05
+=======
+title = 'Minecraft Modpacks'
+date = 2024-11-16
+>>>>>>> mods
 summary = "A mod pack for all you basic Minecraft needs!"
 draft = false
 layout = 'simple'
@@ -112,4 +117,8 @@ Here, things are going to get strange. You will want a Netlify account.
 
 7. Now, everything should be good to go. Press **Launch** and start playing.
 
+<<<<<<< HEAD
 If you want to share your modpack with others, use the **Export** function in Prism and send that to them. The pack will auto-download and update whenever there is a change.
+=======
+If you want to share your modpack with others, use the **Export** function in Prism and send that to them. The pack will auto-download and update whenever there is a change.
+>>>>>>> mods
