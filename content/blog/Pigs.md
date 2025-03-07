@@ -4,10 +4,17 @@ date = 2024-10-20
 summary = "The story of the Guinea Pigs"
 draft = false
 <<<<<<< HEAD
+<<<<<<< HEAD
 layout = 'simple'
 =======
 layout = "simple"
 >>>>>>> 5a33e0841b743ed8de1771ec4b14b8073a1545ea
+=======
+layout = "simple"
+=======
+layout = 'simple'
+>>>>>>> main
+>>>>>>> TOP
 +++
 
 I am going to be really honest with you, I never wanted guinea pigs in the first place. Now I know that sounds strange but bear with me. 

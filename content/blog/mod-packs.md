@@ -1,8 +1,13 @@
 +++
+<<<<<<< HEAD
+title = 'Mod Packs'
+date = 2025-03-05
+=======
 title = 'Minecraft Modpacks'
 date = 2024-11-16
-<<<<<<< HEAD
+>>>>>>> mods
 summary = "A mod pack for all you basic Minecraft needs!"
+<<<<<<< HEAD
 draft = true
 <<<<<<< HEAD
 layout = 'simple'
@@ -14,6 +19,10 @@ draft = false
 layout = "simple"
 >>>>>>> 4caac12a8864d0d9a85aa19bf54cf90d5739a76c
 >>>>>>> 5a33e0841b743ed8de1771ec4b14b8073a1545ea
+=======
+draft = false
+layout = 'simple'
+>>>>>>> TOP
 +++
 
 This week, I got to experience something of interest: I created a Minecraft modpack.
@@ -122,4 +131,8 @@ Here, things are going to get strange. You will want a Netlify account.
 
 7. Now, everything should be good to go. Press **Launch** and start playing.
 
+<<<<<<< HEAD
 If you want to share your modpack with others, use the **Export** function in Prism and send that to them. The pack will auto-download and update whenever there is a change.
+=======
+If you want to share your modpack with others, use the **Export** function in Prism and send that to them. The pack will auto-download and update whenever there is a change.
+>>>>>>> mods
