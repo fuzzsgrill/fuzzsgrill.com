@@ -1,31 +1,10 @@
 +++
-<<<<<<< HEAD
-title = 'Mod Packs'
-date = 2025-03-05
-=======
-title = 'Minecraft Modpacks'
-date = 2024-11-16
->>>>>>> mods
-summary = "A mod pack for all you basic Minecraft needs!"
-<<<<<<< HEAD
-draft = true
-<<<<<<< HEAD
-layout = 'simple'
-=======
-
-=======
-summary = "I made a modpack for all your basic Minecraft needs."
+title = 'Mod Pack'
+date = 2024-12-24
 draft = false
-layout = "simple"
->>>>>>> 4caac12a8864d0d9a85aa19bf54cf90d5739a76c
->>>>>>> 5a33e0841b743ed8de1771ec4b14b8073a1545ea
-=======
-draft = false
+summary = "A mod pack for your basic minecraft needs"
 layout = 'simple'
->>>>>>> TOP
 +++
-
-This week, I got to experience something of interest: I created a Minecraft modpack.
 
 ## What started this?
 
