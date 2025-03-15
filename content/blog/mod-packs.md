@@ -1,7 +1,7 @@
 +++
 title = 'Mod Pack'
 date = 2024-12-24
-draft = false
+draft = true
 summary = "A mod pack for your basic minecraft needs"
 layout = 'simple'
 +++
