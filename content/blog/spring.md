@@ -14,14 +14,11 @@ I love the spring time, the leaves start to come back and are pretty as they gro
  
  It is true, no one can feel the rain on your skin. It is nice to stand out there and get wet from the cool rain. I love it. 
 * The pictures that you can take: I took this picture using a macro lens. It's grass, I also took some bubble pictures. Yes, a picture of a bubble. 
-
-
-![grass](/images/grass.jpg)
-
-![bubble](/images/bubble.jpg)
-
-![flowers](/images/field_of_flowers.jpg)
+![grass macro](/images/grass.JPG)
+![bubble macro](/images/bubble.JPG)
 * It's just really nice out there. I love this weather, it's just really pretty out there. Don't believe me? This is a picture of flowers that grow in the spring. I am in love with the color scheme that is in place. You have yellows, blues, reds, oranges, and white. Along with a river. 
+![flowers](/images/field_of_flowers.jpg)
+
 * It is time for Easter. I love doing a good easter egg hunt, finding the eggs all around the place. One year my Mom and Dad set up a non traditional easter egg hunt. It was a scavenger hunt but instead of looking for eggs. We looked for clues to find the easter baskets. We went all around the house. 
 	* On a second Easter note I love the food that we make. Deviled eggs, ham, potatoes, rolls, and cake. I am getting hungry just thinking about it now. 
 
