@@ -14,7 +14,7 @@ I love the spring time, the leaves start to come back and are pretty as they gro
  
  It is true, no one can feel the rain on your skin. It is nice to stand out there and get wet from the cool rain. I love it. 
 * The pictures that you can take: I took this picture using a macro lens. It's grass, I also took some bubble pictures. Yes, a picture of a bubble. 
-![Grass](/images/grass.jpg)
+![grass](/images/grass.jpg)
 
 ![bubble](/images/bubble.jpg)
 
