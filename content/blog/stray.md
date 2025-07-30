@@ -1,6 +1,6 @@
 +++
 title = "Stray"
-date = 2025-04-11
+date = 2025-07-29
 summary = "A fun cat game that is heart warming at the end of it all"
 draft = false
 layout = 'simple'
