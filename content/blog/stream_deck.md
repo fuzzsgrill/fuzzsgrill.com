@@ -7,7 +7,7 @@ layout = 'simple'
 +++
 I recently got a 15 key stream deck and I absolutely love this thing, I want to give you a review of it. The Stream Deck is made by a company called El Gato (the funny thing to me is that is Spanish for "the cat"). They make several versions of it, there is a 6, 15, and 32 key along with some stuff for studios. So what is this thing exactly? It is a bunch of buttons that sits at your desk and lets you create shortcuts to navigate your computer or streaming set up. One thing that I have learned from busking and using consoles is if you are going to be repeating a bunch of actions (like aiming moving head lights to the stage) you are better off creating a macro for it so it is completed in one press. The same goes for everyday computer actions. I want to take you around my stream deck and show how it's set up. 
 
-![Stream Deck Glam Shot](/images/streamdeck/stream_deck_glam.png)
+![Stream Deck Glam Shot](/images/stream_deck/stream_deck_glam.png)
 
 ![Home](/images/stream_deck/home.png)
 
