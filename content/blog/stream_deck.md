@@ -11,14 +11,14 @@ I recently got a 15 key stream deck and I absolutely love this thing, I want to 
 
 ![Home](/images/stream_deck/home.png)
 
-This is the home screen, top left is my terminal commands, Discord tools, Windows tools, applications that I use, a count down to Christmas (I had an extra tile and wanted it to look nice), Spotify controls, quick apps to launch games, Windows sound controls, websites I visit, weather, Spotify controls, and then a button to go to the next page which is blank. 
+This is the home screen, starting at the top left is my terminal commands, Discord tools, Windows tools, applications that I use, a count down to Christmas (I had an extra tile and wanted it to look nice), Spotify controls, quick apps to launch games, Windows sound controls, websites I visit, weather, Spotify control (quick access), and then a button to go to the next page which is blank. 
 
 # Terminal
 In this folder I have a bunch of commands that make using the terminal easy. When you first open the page you see this: 
 
 ![Terminal](/images/stream_deck/terminal_home.png)
 
-Here I can choose what I need, blog tools, Ubuntu's terminal or access my ThinkPad X61 that I use to home lab some stuff (ok you caught me, it's a NAS). I do not have a picture for it yet. 
+Here I can choose what I need, blog tools, Ubuntu's terminal (also known as Windows Sub Linux) or access my ThinkPad X61 that I use to home lab some stuff (ok you caught me, it's a NAS). I do not have a picture for it yet. 
 
 
 When you press the computer button (blog tools) it brings you here:
@@ -35,12 +35,12 @@ Pretty simple, I can mute, share screen and deafen my discord. The button on the
 # Windows
 ![Windows](/images/stream_deck/windows_tools.png)
 
-The arrow that you may have seen in the top left is a return arrow. That takes me back to the home page. From there is copy and paste, lock the computer (when I press that button it starts a screen saver. It is set to a bubble animation by Youtuber Chipflake), turn the Bluetooth on and off, move things between screens, switch were the audio is going (when playing), that goes to Bluetooth and the monitor speakers. The web icon is a command for ctrl+shift+c, when I do that in my web browser it will copy the website URL. Drive stats (NAS, C, extra storage, on board computer backup drive) and a quick button to restart the computer. 
+The arrow that you may have seen in the top left is a return arrow. That takes me back to the home page. From there is copy and paste, lock the computer (when I press that button it starts a screen saver. It is set to a bubble animation by Youtuber Chipflake), turn Bluetooth on and off, move things between screens, switch were the audio is going (when playing), that goes to Bluetooth and the monitor speakers. The web icon is a command for ctrl+shift+c, when I do that in my web browser it will copy the website URL. Drive stats (NAS, C, extra storage, on board backup drive) and a quick button to restart the computer. 
 
 # Applications
 ![Applications](/images/stream_deck/applications.png)
 
-Here we got some essential apps. Steam, Zen (web browser) ETC EOS, Stream Deck, DaVinci Resolve (video editor), terminal again, explorer, obsidian and OBS
+Here we got some essential apps. Steam, Zen (web browser) ETC EOS, Stream Deck, DaVinci Resolve (video editor), terminal again this time it won't launch WSL, File Explorer, Obsidian and OBS
 
 # Spotify
 ![Spotify](/images/stream_deck/spotify.png)
@@ -51,7 +51,7 @@ Top two tiles (next to the return arrow) are playlists I am listening to. A 2010
 
 ![Games](/images/stream_deck/games.png)
 
-Here are some games that I play. Getting these set up were easy, they are "websites" that link to steam. When creating a shortcut on Stream Deck you use a website button with game's id. Each game has an id number, the button actually opens up `steam://rungameid/####` in Zen that is then configured to open steam automatically. I play Bloons TD 5 and 6, Undertale and Nerts. 
+Here are some games that I play. Getting these set up were easy, they are "websites" that link to steam. When creating a shortcut on Stream Deck you use a website button with game's id. Each game has an id number, the button actually opens up `steam://rungameid/####` in Zen that is then configured to open steam automatically. I also play Bloons TD 5 and 6, Undertale and Nerts along Stardew Valley.
 
 # Mixer
 ![Sound Mixer](/images/stream_deck/sound_mixer_windows.png)
@@ -60,7 +60,7 @@ Its a volume mixer... I can control each app independently, and this does the sa
 
 # Websites
 ![Websites](/images/stream_deck/websites.png)
-Lastly we have quick buttons that take me to websites. The El Gato Market place, messages, ETC, Fuzzsgrill.com, Stardew Valley Wiki, a background removal tool, a tile creator, email and YouTube.
+Lastly we have quick buttons that take me to websites. The El Gato Market place, messages, ETC, Fuzzsgrill.com, Stardew Valley Wiki, a background removal tool, a tile creator for the Stream Deck, email and YouTube.
 
 
 There are so many tools and apps that are created for  this thing. I am using a lot of tools from a developer called Bar Raider, who has done some really cool work. They created the windows tools, Spotify tools, and a lot more. This thing gives you a ton of flexibility for workloads. It is super useful when doing blog things (which I will talk about in a later post). 
