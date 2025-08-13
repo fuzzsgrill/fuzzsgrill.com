@@ -1,6 +1,6 @@
 +++
 title = "Stream Deck"
-date = 2025-08-11
+date = 2025-08-13
 summary = "A bunch of buttons that help"
 draft = false
 layout = 'simple'
