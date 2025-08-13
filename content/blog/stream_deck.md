@@ -11,7 +11,7 @@ I recently got a 15 key stream deck and I absolutely love this thing, I want to 
 
 ![Home](/images/stream_deck/home.png)
 
-This is the home screen, starting at the top left is my terminal commands, Discord tools, Windows tools, applications that I use, a count down to Christmas (I had an extra tile and wanted it to look nice), Spotify controls, quick apps to launch games, Windows sound controls, websites I visit, weather, Spotify control (quick access), and then a button to go to the next page which is blank. 
+This is the home screen, starting at the top left is my terminal commands, Discord tools, Windows tools, applications that I use, a count down to Christmas (I had an extra tile and wanted it to look nice), Spotify controls, quick apps to launch games, Windows sound controls, websites I visit, weather, Spotify control (quick access), and then a button to go to the next page which is blank.
 
 # Terminal
 In this folder I have a bunch of commands that make using the terminal easy. When you first open the page you see this: 
