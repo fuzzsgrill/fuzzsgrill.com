@@ -1,7 +1,7 @@
 +++
 title = "Presonus Studio Live 32SC"
 date = 2025-04-06
-summary = "A sound console I feel in love with"
+summary = "A sound console I fell in love with"
 draft = false
 +++
 
