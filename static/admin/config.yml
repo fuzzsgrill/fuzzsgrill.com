@@ -1,0 +1,45 @@
+backend:
+  name: github
+  repo: fuzzsgrill/fuzzsgrill.com
+  branch: main
+  # Login is handled by an OAuth provider. With Netlify's OAuth provider set up
+  # (see CMS-SETUP.md), no base_url is needed here — the default points at it.
+
+# Where the CMS uploads images, and the URL they resolve to on the live site.
+media_folder: static/images
+public_folder: /images
+
+# Links the CMS back to the live site.
+site_url: https://fuzzsgrill.com
+display_url: https://fuzzsgrill.com
+
+collections:
+  - name: blog
+    label: Blog Posts
+    label_singular: Blog Post
+    description: Write a new post or edit an existing one, then hit Publish.
+    folder: content/blog
+    create: true
+    slug: "{{slug}}"
+    # His posts use TOML frontmatter (the +++ block).
+    format: toml-frontmatter
+    sortable_fields: [date, title]
+    fields:
+      - { name: title, label: Title, widget: string }
+      - {
+          name: date,
+          label: Date,
+          widget: datetime,
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "YYYY-MM-DD",
+        }
+      - { name: summary, label: Summary, widget: string, required: false }
+      - {
+          name: draft,
+          label: "Draft (leave on while writing; turn OFF to publish)",
+          widget: boolean,
+          default: true,
+        }
+      - { name: layout, label: Layout, widget: hidden, default: simple }
+      - { name: body, label: Body, widget: markdown }
