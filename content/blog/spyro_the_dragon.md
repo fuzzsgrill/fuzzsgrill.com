@@ -1,7 +1,7 @@
 +++
 title = "Spyro"
 date = "2026-06-08"
-summary = ""
+summary = "A Smol purple dragon, who saves the world"
 draft = false
 layout = "simple"
 +++
@@ -40,7 +40,4 @@ According to the wiki, it was supposed to be a darker game that "would have invo
 
 If you are looking for a fun/fast paced game I highly recommend Spyro the Dragon Reignited. Some of the levels took me hours to complete because of skill points (adds lives and unlocks the gallery), but it has been worth it so far.
 
-
-
-
-1. They did not develop the original Crash Bandicoot games, much like Spyro. They just rebooted the series and are developing new games under the title.[↩︎](#fnref-1)
+        1. They did not develop the original Crash Bandicoot games, much like Spyro. They just rebooted the series and are developing new games under the title.[↩︎](#fnref-1)
